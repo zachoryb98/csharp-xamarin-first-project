@@ -1,0 +1,4 @@
+BucketList/BucketList.csproj
+BucketListTests/BucketListTests.csproj
+BucketList.iOS/BucketList.iOS.csproj
+BucketList.Android/BucketList.Android.csproj
